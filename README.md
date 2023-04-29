@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://blog.naver.com/ajs998" target="_blank"><img src="https://img.shields.io/badge/dc392d?style=for-the-badge&logo=accusoft&logoColor=ffffff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/dc392d?style=for-the-badge&logo=accusoft&logoColor=ffffff"/></a>
